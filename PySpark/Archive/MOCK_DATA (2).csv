@@ -1,0 +1,1001 @@
+order_id,customer_id,order_timestamp,product_id,quantity,unit_price,status,country
+2001,1,8/6/2026,1,20,771.48,completed,Russia
+2002,2,8/7/2026,2,14,688.45,suspended,Indonesia
+2003,3,8/6/2026,3,9,170.42,completed,China
+2004,4,8/6/2026,4,19,52.18,archived,
+2005,5,8/3/2026,5,8,754.79,in progress,China
+2006,6,8/1/2026,6,13,198.6,inactive,United States
+2007,7,8/5/2026,7,,790.02,suspended,China
+2008,8,8/6/2026,8,19,50.87,active,Ukraine
+2009,9,8/2/2026,9,11,32.64,resolved,China
+2010,10,8/4/2026,10,6,187.3,pending,Indonesia
+2011,11,8/6/2026,11,13,183.05,inactive,China
+2012,12,8/7/2026,12,15,535.98,archived,Portugal
+2013,13,8/4/2026,13,12,207.49,archived,Austria
+2014,14,8/2/2026,14,3,643.14,on hold,Canada
+2015,15,8/6/2026,15,19,590.85,inactive,Russia
+2016,16,8/2/2026,16,7,921.45,suspended,Poland
+2017,17,,17,19,316.79,active,China
+2018,18,8/7/2026,18,8,850.0,active,China
+2019,19,8/4/2026,19,15,934.73,on hold,Nigeria
+2020,20,8/4/2026,20,8,845.43,resolved,China
+,21,8/5/2026,21,10,13.15,resolved,China
+2022,22,8/7/2026,22,,396.26,inactive,Sweden
+2023,23,8/3/2026,23,5,394.59,resolved,Sweden
+2024,24,8/3/2026,,11,563.47,inactive,United States
+2025,25,8/7/2026,25,9,461.96,cancelled,China
+2026,26,8/6/2026,26,2,88.1,pending,Madagascar
+2027,27,8/4/2026,27,15,62.0,inactive,China
+2028,28,8/6/2026,28,7,385.74,pending,China
+2029,29,8/4/2026,29,8,643.94,suspended,Russia
+2030,30,8/6/2026,30,16,470.94,archived,China
+2031,31,8/4/2026,31,19,533.27,completed,China
+2032,32,8/3/2026,32,5,662.24,archived,China
+2033,33,8/5/2026,33,3,424.48,active,Brazil
+2034,34,8/1/2026,,1,169.78,pending,Philippines
+2035,35,8/2/2026,35,11,817.56,,Poland
+2036,36,8/4/2026,36,20,333.44,suspended,Brazil
+2037,37,8/5/2026,37,18,862.96,on hold,Sweden
+2038,38,,38,2,881.75,inactive,United States
+2039,39,8/2/2026,39,17,560.68,resolved,
+2040,40,8/7/2026,40,13,530.01,inactive,Czech Republic
+2041,41,8/5/2026,41,3,645.55,in progress,Philippines
+2042,42,,42,6,913.91,pending,Norway
+2043,43,8/7/2026,43,14,781.35,inactive,China
+2044,44,8/3/2026,44,14,907.68,in progress,Honduras
+2045,45,8/4/2026,45,19,944.94,completed,Japan
+2046,46,,46,16,675.12,inactive,Russia
+2047,47,8/1/2026,47,7,852.39,in progress,China
+2048,48,8/6/2026,48,19,597.4,inactive,China
+2049,49,8/4/2026,49,6,842.81,pending,
+2050,50,8/7/2026,50,19,346.35,inactive,Russia
+2051,51,8/2/2026,51,15,81.39,on hold,Czech Republic
+2052,52,8/1/2026,52,20,910.02,cancelled,Indonesia
+2053,53,8/4/2026,53,10,272.93,suspended,South Africa
+2054,54,8/4/2026,54,5,40.36,suspended,Poland
+2055,,8/1/2026,55,15,61.14,cancelled,Ukraine
+2056,56,8/5/2026,56,8,314.15,archived,Philippines
+2057,57,8/2/2026,57,9,553.22,archived,Ireland
+2058,58,8/5/2026,58,13,573.64,completed,Ireland
+2059,59,8/2/2026,59,14,58.04,cancelled,Kazakhstan
+2060,60,8/3/2026,60,5,437.54,inactive,Indonesia
+2061,61,8/4/2026,61,9,536.83,on hold,Bolivia
+2062,62,8/5/2026,62,20,915.4,on hold,Portugal
+2063,63,8/6/2026,63,14,848.73,pending,
+2064,64,8/4/2026,64,2,286.45,cancelled,Russia
+2065,65,,65,1,701.91,pending,Mexico
+2066,66,8/6/2026,66,,373.4,completed,Netherlands
+2067,67,8/3/2026,67,13,594.25,pending,Thailand
+2068,68,8/1/2026,68,8,460.54,on hold,Portugal
+2069,69,8/3/2026,69,1,732.74,cancelled,Serbia
+2070,70,8/4/2026,70,8,468.8,completed,Indonesia
+2071,71,8/4/2026,71,19,137.04,cancelled,China
+2072,72,8/2/2026,72,3,454.57,on hold,Russia
+2073,73,8/5/2026,73,20,147.25,completed,Trinidad and Tobago
+2074,74,8/7/2026,74,12,159.75,pending,Japan
+2075,75,8/3/2026,75,19,722.94,completed,South Africa
+2076,76,8/2/2026,,19,328.2,cancelled,Denmark
+2077,77,8/7/2026,77,4,407.09,completed,Honduras
+2078,78,8/1/2026,78,11,267.09,inactive,Indonesia
+2079,79,8/6/2026,79,13,982.66,completed,Iran
+2080,80,8/5/2026,80,9,970.52,pending,Philippines
+2081,81,8/3/2026,81,6,482.41,archived,Russia
+2082,82,8/5/2026,82,5,133.26,active,China
+2083,83,8/1/2026,83,14,642.7,resolved,Japan
+2084,84,8/6/2026,84,17,295.66,completed,China
+2085,85,8/3/2026,85,9,299.59,active,Ukraine
+2086,86,8/6/2026,86,8,350.22,,Mongolia
+2087,87,8/7/2026,87,18,244.98,completed,South Korea
+2088,88,8/3/2026,88,18,616.79,resolved,Czech Republic
+2089,89,8/6/2026,89,1,407.5,in progress,Colombia
+2090,90,8/7/2026,90,1,15.54,pending,Portugal
+2091,91,8/3/2026,91,1,520.5,active,Peru
+2092,92,8/2/2026,92,10,511.08,in progress,
+2093,93,8/5/2026,93,14,,active,Nicaragua
+2094,94,8/3/2026,94,10,551.71,completed,Laos
+2095,95,8/3/2026,95,11,935.88,inactive,Portugal
+2096,96,8/2/2026,96,2,990.62,archived,China
+2097,97,8/3/2026,97,13,811.78,active,Philippines
+2098,98,8/6/2026,98,9,169.28,cancelled,Indonesia
+2099,99,8/4/2026,99,14,210.03,cancelled,Denmark
+2100,100,8/2/2026,100,6,,pending,Panama
+2101,101,8/3/2026,101,18,2.87,in progress,Russia
+2102,102,8/4/2026,102,3,884.14,in progress,Indonesia
+2103,103,8/6/2026,103,14,437.04,completed,China
+2104,104,8/2/2026,,6,124.63,pending,China
+2105,105,8/1/2026,105,17,875.21,completed,China
+2106,106,8/2/2026,106,4,920.38,pending,Armenia
+2107,107,8/4/2026,107,6,814.82,cancelled,Mexico
+2108,108,8/7/2026,108,5,191.88,cancelled,Slovenia
+2109,109,8/7/2026,109,16,27.36,suspended,Argentina
+2110,110,8/4/2026,110,,260.01,on hold,Brazil
+2111,111,8/7/2026,111,19,800.83,cancelled,Greece
+2112,112,8/4/2026,112,1,551.64,on hold,Russia
+2113,113,8/3/2026,113,18,321.01,completed,Poland
+2114,114,8/2/2026,114,11,146.46,on hold,Philippines
+2115,115,8/7/2026,115,5,660.47,on hold,Russia
+2116,116,8/6/2026,116,4,950.05,pending,Russia
+2117,117,,117,8,523.76,suspended,Egypt
+2118,118,8/7/2026,118,16,87.57,resolved,Afghanistan
+2119,119,8/2/2026,119,6,246.94,inactive,Ukraine
+2120,120,8/7/2026,120,1,339.81,in progress,Zambia
+2121,121,,121,14,850.74,archived,China
+2122,122,8/6/2026,122,15,786.13,on hold,Colombia
+2123,123,8/2/2026,123,13,194.02,inactive,Argentina
+2124,124,8/4/2026,124,7,131.71,inactive,Russia
+2125,125,8/4/2026,125,7,324.55,in progress,China
+2126,126,8/6/2026,126,15,867.28,suspended,United States
+2127,127,8/2/2026,127,18,968.26,active,China
+2128,128,8/2/2026,128,2,258.84,archived,China
+,129,8/1/2026,129,14,177.8,on hold,Argentina
+2130,130,8/4/2026,130,2,531.55,inactive,China
+2131,131,8/1/2026,131,5,57.05,on hold,Indonesia
+2132,132,8/3/2026,132,2,481.36,completed,Dominican Republic
+2133,133,8/7/2026,133,15,455.44,archived,China
+2134,134,8/3/2026,134,16,472.42,resolved,Sweden
+2135,135,8/4/2026,135,19,925.32,active,Greece
+2136,136,8/2/2026,136,9,349.65,on hold,Ethiopia
+2137,137,8/4/2026,137,7,987.93,archived,France
+2138,138,8/2/2026,138,20,314.63,,China
+2139,139,8/7/2026,139,4,763.79,resolved,Brazil
+2140,140,8/5/2026,140,13,818.8,pending,Indonesia
+2141,141,8/7/2026,141,8,322.45,on hold,Malawi
+2142,142,8/6/2026,142,3,155.34,suspended,Canada
+2143,143,8/3/2026,143,4,551.16,suspended,Indonesia
+2144,144,8/3/2026,144,4,456.57,inactive,Syria
+2145,145,8/2/2026,145,19,8.51,on hold,Sweden
+2146,146,8/5/2026,146,15,716.03,inactive,Indonesia
+2147,147,8/3/2026,147,18,383.56,on hold,Pakistan
+2148,148,8/7/2026,148,12,552.94,completed,Portugal
+2149,149,8/6/2026,149,20,33.32,in progress,Sweden
+2150,150,,150,17,987.42,suspended,Indonesia
+2151,151,8/3/2026,151,19,649.42,archived,China
+2152,152,8/3/2026,152,3,461.72,suspended,China
+2153,153,,153,15,240.73,completed,Indonesia
+2154,154,8/1/2026,154,18,900.62,pending,United States
+2155,155,8/7/2026,155,16,623.85,cancelled,Brazil
+2156,156,8/6/2026,156,5,935.33,in progress,France
+2157,157,,157,3,280.4,cancelled,Germany
+2158,158,8/1/2026,158,20,56.15,in progress,China
+2159,159,8/7/2026,159,5,354.0,inactive,Egypt
+2160,160,8/4/2026,160,14,463.47,active,Philippines
+2161,161,8/6/2026,161,3,187.82,cancelled,France
+2162,162,8/6/2026,162,13,232.29,on hold,Poland
+2163,163,8/4/2026,163,9,33.22,active,Honduras
+2164,164,8/5/2026,164,,702.09,in progress,Brazil
+2165,165,8/5/2026,165,,522.2,completed,Vietnam
+2166,166,8/7/2026,,18,245.95,suspended,China
+2167,167,8/7/2026,167,3,988.66,inactive,United States
+2168,168,8/1/2026,168,2,853.39,inactive,China
+2169,169,8/5/2026,169,9,632.11,completed,China
+2170,170,8/6/2026,170,14,642.02,active,Philippines
+2171,171,8/4/2026,171,7,817.81,in progress,Argentina
+2172,172,8/5/2026,172,5,225.12,resolved,Venezuela
+2173,173,8/6/2026,173,17,75.89,completed,Russia
+2174,174,8/5/2026,174,,186.19,on hold,Russia
+2175,175,8/1/2026,175,18,973.68,active,Finland
+2176,176,8/3/2026,176,16,702.96,pending,Serbia
+2177,177,8/4/2026,177,13,120.8,in progress,Portugal
+2178,178,8/6/2026,178,8,539.11,archived,Canada
+2179,179,8/3/2026,179,4,639.74,completed,Syria
+2180,180,8/3/2026,180,3,758.52,inactive,China
+2181,181,8/3/2026,181,19,275.73,suspended,Nigeria
+2182,182,8/2/2026,182,15,594.29,pending,Venezuela
+2183,183,8/5/2026,183,,766.86,active,China
+2184,184,8/6/2026,184,2,936.48,archived,Ivory Coast
+2185,185,8/6/2026,185,2,895.81,archived,Portugal
+2186,186,8/2/2026,186,,736.57,in progress,Argentina
+,187,8/4/2026,187,12,294.02,inactive,Russia
+2188,188,,188,14,511.91,pending,Venezuela
+2189,189,8/1/2026,189,6,676.15,completed,Colombia
+2190,190,8/4/2026,190,17,475.35,active,Czech Republic
+2191,191,8/1/2026,191,20,747.17,resolved,Indonesia
+2192,192,8/3/2026,192,3,,on hold,France
+2193,193,8/7/2026,193,,664.36,pending,Netherlands
+2194,194,8/5/2026,194,11,431.48,on hold,Sweden
+2195,195,8/6/2026,195,18,222.01,suspended,China
+2196,196,8/2/2026,196,10,,on hold,China
+2197,197,8/2/2026,197,7,1.24,resolved,China
+2198,198,8/6/2026,198,17,191.43,in progress,France
+2199,199,8/6/2026,199,11,897.87,resolved,Tanzania
+2200,200,8/3/2026,200,2,856.11,archived,Argentina
+2201,201,8/7/2026,201,16,780.15,completed,China
+2202,202,8/2/2026,202,3,,cancelled,Japan
+2203,203,8/5/2026,203,11,225.56,pending,Argentina
+2204,204,8/3/2026,204,18,112.41,in progress,Sweden
+2205,205,8/3/2026,205,17,68.93,in progress,Haiti
+,206,8/2/2026,206,15,714.7,active,Wallis and Futuna
+2207,207,8/2/2026,,10,129.71,inactive,United States
+2208,208,8/5/2026,208,11,347.13,on hold,China
+2209,209,8/2/2026,209,5,278.15,,Indonesia
+2210,210,8/1/2026,210,20,604.94,cancelled,Thailand
+2211,211,8/1/2026,211,14,707.83,resolved,Greece
+2212,212,,212,15,746.07,cancelled,Russia
+2213,213,8/7/2026,213,4,828.85,resolved,Mexico
+2214,214,8/4/2026,214,2,614.16,pending,Thailand
+2215,215,8/4/2026,215,16,439.3,suspended,Bangladesh
+,216,,216,15,417.78,archived,
+,217,8/2/2026,217,9,649.29,active,Sweden
+2218,218,8/3/2026,218,4,677.42,suspended,Belarus
+,219,8/5/2026,219,9,911.99,archived,Venezuela
+2220,220,8/6/2026,220,12,998.08,pending,Russia
+2221,221,8/2/2026,221,20,856.53,cancelled,Indonesia
+2222,222,8/6/2026,222,15,883.34,resolved,Japan
+2223,223,8/7/2026,223,17,588.91,suspended,Ukraine
+2224,224,8/2/2026,224,4,43.48,resolved,Venezuela
+2225,225,8/4/2026,225,15,720.15,cancelled,Philippines
+,226,8/6/2026,226,11,301.16,active,Israel
+2227,227,8/7/2026,227,6,905.65,in progress,China
+2228,228,8/2/2026,228,1,777.58,active,Greece
+2229,229,8/5/2026,229,3,256.74,inactive,Venezuela
+2230,230,8/2/2026,230,3,326.11,cancelled,Indonesia
+2231,231,8/5/2026,231,16,117.11,completed,Russia
+,232,8/6/2026,232,20,548.05,suspended,Vietnam
+2233,233,8/2/2026,233,17,820.73,resolved,Malaysia
+2234,234,8/7/2026,234,16,343.82,suspended,Czech Republic
+2235,235,8/7/2026,235,7,280.67,suspended,Russia
+2236,236,8/6/2026,236,5,986.04,completed,China
+2237,237,8/5/2026,237,8,994.76,on hold,Philippines
+2238,238,8/5/2026,238,7,530.2,on hold,China
+2239,239,8/3/2026,239,18,771.15,completed,China
+2240,240,8/5/2026,240,17,54.71,suspended,
+2241,241,8/5/2026,241,10,277.16,pending,China
+2242,242,8/6/2026,242,14,693.53,completed,Philippines
+,243,8/6/2026,,6,317.46,resolved,Japan
+2244,244,8/5/2026,244,4,947.47,in progress,Greece
+2245,245,8/7/2026,245,4,893.58,cancelled,China
+2246,246,8/6/2026,246,8,182.43,archived,Sweden
+2247,247,8/1/2026,247,19,140.77,archived,Poland
+2248,248,8/5/2026,248,,51.83,pending,Cyprus
+2249,249,8/4/2026,249,1,364.67,in progress,China
+2250,250,8/2/2026,250,10,314.59,active,
+2251,251,8/5/2026,251,17,286.97,in progress,China
+2252,252,8/7/2026,252,14,609.71,resolved,China
+2253,253,8/4/2026,253,13,,inactive,Indonesia
+2254,254,8/7/2026,254,14,368.03,cancelled,Bolivia
+2255,255,8/7/2026,255,18,572.86,on hold,United Kingdom
+2256,256,8/1/2026,256,15,69.89,resolved,Greece
+2257,257,8/4/2026,257,,995.97,resolved,Russia
+2258,258,8/6/2026,258,17,84.32,resolved,Colombia
+2259,259,8/4/2026,259,18,,completed,Finland
+2260,260,8/3/2026,260,4,428.81,in progress,Sweden
+2261,261,8/5/2026,261,11,866.65,pending,Colombia
+2262,262,8/6/2026,262,,442.82,active,Japan
+,263,8/6/2026,263,15,554.01,cancelled,Brazil
+2264,264,8/4/2026,264,5,917.14,cancelled,Latvia
+2265,265,8/4/2026,265,8,534.11,resolved,Poland
+2266,266,8/5/2026,266,12,47.27,in progress,Czech Republic
+2267,267,8/5/2026,267,19,644.19,suspended,Panama
+,268,8/4/2026,268,17,105.1,in progress,Malaysia
+2269,269,8/1/2026,269,11,981.26,in progress,
+2270,270,8/5/2026,270,3,747.73,in progress,China
+2271,271,8/6/2026,271,13,138.38,in progress,Japan
+2272,272,8/6/2026,272,9,717.11,suspended,France
+2273,273,8/1/2026,273,20,719.8,active,
+2274,274,8/1/2026,274,17,930.89,completed,Ukraine
+2275,275,8/1/2026,275,1,408.88,in progress,Sri Lanka
+2276,276,8/7/2026,276,17,9.46,cancelled,Russia
+2277,277,8/5/2026,277,20,80.9,on hold,Argentina
+2278,278,8/7/2026,278,14,552.95,inactive,Finland
+,279,8/3/2026,279,10,553.4,pending,Panama
+2280,280,8/4/2026,280,14,29.21,in progress,Greece
+2281,281,8/3/2026,281,12,495.45,in progress,Estonia
+2282,282,8/5/2026,282,3,787.26,inactive,Ireland
+2283,283,8/2/2026,283,19,901.96,pending,China
+2284,284,8/5/2026,284,2,109.94,on hold,Indonesia
+2285,285,8/7/2026,285,7,486.6,cancelled,United States
+2286,286,8/2/2026,286,20,234.39,pending,Brazil
+2287,287,8/7/2026,287,17,855.37,suspended,Indonesia
+2288,288,8/7/2026,288,4,334.43,inactive,
+2289,289,8/3/2026,289,17,423.17,cancelled,Indonesia
+2290,290,8/3/2026,290,5,371.4,,Indonesia
+2291,291,8/5/2026,291,14,295.83,archived,Brazil
+2292,,8/4/2026,292,13,960.8,active,Burkina Faso
+2293,293,8/2/2026,293,16,420.33,cancelled,Peru
+2294,294,8/5/2026,294,4,135.14,archived,Nigeria
+2295,295,8/6/2026,295,20,754.22,pending,Nicaragua
+2296,296,8/3/2026,296,13,868.97,resolved,China
+2297,297,8/5/2026,297,3,961.69,completed,Indonesia
+2298,298,8/6/2026,298,18,525.74,resolved,Poland
+2299,299,8/2/2026,299,15,779.32,suspended,Poland
+2300,300,8/2/2026,300,5,664.25,active,Poland
+2301,301,8/1/2026,301,1,634.36,inactive,France
+2302,302,8/7/2026,302,4,832.22,completed,Pakistan
+2303,303,8/1/2026,303,1,208.52,pending,Brazil
+2304,304,8/5/2026,304,15,311.65,active,Indonesia
+2305,305,8/3/2026,,8,2.47,suspended,Sweden
+2306,306,,306,1,675.89,archived,China
+2307,307,8/7/2026,307,15,200.13,archived,Palestinian Territory
+2308,308,8/2/2026,308,16,826.36,active,Philippines
+2309,309,8/2/2026,,4,660.49,resolved,China
+2310,310,8/4/2026,310,16,294.81,archived,China
+2311,311,8/7/2026,311,14,726.16,resolved,Indonesia
+2312,312,8/6/2026,312,3,648.79,inactive,China
+2313,313,8/7/2026,,17,439.64,resolved,Vietnam
+2314,314,8/2/2026,314,11,447.04,cancelled,Ukraine
+2315,315,8/6/2026,315,12,565.03,pending,Ukraine
+2316,316,8/5/2026,,11,388.4,inactive,Panama
+2317,317,8/7/2026,317,6,104.89,archived,China
+2318,318,8/1/2026,318,12,100.15,resolved,Indonesia
+2319,319,,319,9,972.31,in progress,Belarus
+2320,320,,320,10,754.84,pending,Denmark
+2321,321,8/7/2026,321,11,223.96,on hold,China
+2322,322,8/4/2026,322,10,488.0,pending,Indonesia
+2323,323,8/5/2026,323,8,609.84,on hold,Belize
+2324,324,8/3/2026,324,3,935.05,pending,Philippines
+2325,325,8/6/2026,325,3,485.22,,Serbia
+2326,326,8/2/2026,326,11,603.17,active,Indonesia
+2327,327,8/3/2026,327,2,840.78,inactive,Bulgaria
+2328,328,8/6/2026,328,8,979.76,completed,
+2329,329,8/2/2026,329,19,73.27,on hold,Indonesia
+2330,330,8/3/2026,330,1,330.65,in progress,Ukraine
+2331,331,8/1/2026,331,10,132.67,inactive,China
+2332,332,8/7/2026,332,13,189.47,suspended,China
+2333,333,8/2/2026,333,5,220.34,resolved,China
+2334,334,8/1/2026,334,14,931.44,suspended,Azerbaijan
+2335,335,8/4/2026,335,19,262.35,resolved,United States
+2336,336,8/7/2026,336,10,530.07,cancelled,Ireland
+2337,337,8/3/2026,337,16,408.33,cancelled,
+2338,338,8/4/2026,338,4,11.68,inactive,Nigeria
+2339,339,8/1/2026,339,20,561.56,pending,Brazil
+2340,340,8/6/2026,340,4,254.52,in progress,Brazil
+2341,341,8/7/2026,341,8,941.5,active,Portugal
+2342,342,8/7/2026,342,10,80.15,in progress,Russia
+,343,8/5/2026,343,15,407.28,,China
+2344,344,8/4/2026,344,12,602.17,suspended,Cuba
+2345,345,8/2/2026,345,11,758.73,on hold,Indonesia
+2346,346,8/7/2026,346,11,474.17,inactive,Indonesia
+2347,347,8/4/2026,347,17,258.29,pending,France
+2348,348,8/2/2026,348,12,595.29,in progress,Indonesia
+2349,349,8/3/2026,349,9,217.02,on hold,Russia
+2350,350,8/1/2026,350,4,517.34,suspended,United States
+2351,351,8/4/2026,351,10,502.52,archived,Indonesia
+2352,352,8/1/2026,352,14,626.55,archived,China
+2353,353,8/6/2026,353,18,283.99,completed,
+2354,354,8/4/2026,354,2,572.96,resolved,Honduras
+2355,355,8/5/2026,355,15,367.18,inactive,Thailand
+2356,356,8/2/2026,356,17,228.5,resolved,Botswana
+2357,357,8/1/2026,357,5,388.87,resolved,
+2358,358,8/5/2026,358,7,108.77,suspended,China
+2359,359,8/4/2026,359,5,207.79,cancelled,China
+2360,360,8/3/2026,360,14,356.9,active,China
+2361,361,8/4/2026,361,8,986.45,completed,United States
+2362,362,8/6/2026,362,11,643.2,on hold,Panama
+2363,363,8/2/2026,363,11,396.31,in progress,Sweden
+2364,364,8/7/2026,364,9,876.69,completed,Syria
+2365,365,8/2/2026,365,11,536.95,inactive,Ethiopia
+2366,366,8/5/2026,366,16,220.61,completed,Equatorial Guinea
+2367,367,8/3/2026,367,15,3.96,in progress,China
+2368,368,8/4/2026,368,16,172.8,resolved,Philippines
+2369,369,,369,1,707.76,archived,Russia
+2370,370,8/5/2026,370,16,838.34,on hold,Afghanistan
+2371,371,8/1/2026,371,7,,cancelled,China
+2372,372,8/1/2026,372,9,50.75,suspended,Indonesia
+2373,373,8/5/2026,373,5,381.4,archived,Indonesia
+2374,374,8/7/2026,,10,482.0,on hold,China
+2375,375,8/1/2026,375,19,343.4,inactive,Philippines
+2376,376,8/2/2026,376,13,518.74,inactive,Venezuela
+2377,377,8/2/2026,377,16,206.88,,Indonesia
+2378,378,8/1/2026,378,,990.1,active,Philippines
+2379,379,8/5/2026,379,3,934.23,completed,Zimbabwe
+2380,380,8/3/2026,380,7,719.17,active,Armenia
+2381,381,8/6/2026,381,17,874.02,,Democratic Republic of the Congo
+2382,382,8/4/2026,382,6,334.06,cancelled,Afghanistan
+2383,383,8/7/2026,383,6,801.6,pending,Japan
+2384,384,8/4/2026,384,9,828.71,suspended,Russia
+2385,385,8/2/2026,385,5,498.48,suspended,Indonesia
+2386,386,8/2/2026,386,19,645.27,inactive,China
+2387,387,8/7/2026,387,20,621.16,resolved,China
+2388,388,8/4/2026,388,10,41.91,in progress,Indonesia
+2389,389,8/5/2026,,6,246.43,inactive,China
+2390,390,8/7/2026,390,12,987.28,suspended,Argentina
+2391,391,8/3/2026,391,5,341.57,in progress,Mongolia
+2392,392,8/6/2026,392,10,419.76,on hold,Indonesia
+2393,393,8/2/2026,393,9,414.18,completed,China
+2394,,,394,7,881.06,on hold,Philippines
+2395,395,8/3/2026,395,1,474.1,on hold,Argentina
+2396,396,8/7/2026,396,5,,inactive,Russia
+2397,397,8/1/2026,397,18,318.25,active,China
+2398,,8/1/2026,398,14,517.44,pending,Canada
+2399,399,8/2/2026,399,3,335.7,resolved,Dominican Republic
+2400,400,8/1/2026,400,1,217.45,active,Indonesia
+2401,401,8/5/2026,401,18,,archived,China
+2402,402,,402,9,945.4,in progress,Peru
+2403,403,8/7/2026,403,13,614.88,cancelled,Brazil
+2404,404,8/5/2026,404,9,,in progress,Indonesia
+2405,405,8/5/2026,405,6,225.31,active,Ukraine
+2406,406,8/2/2026,406,12,321.09,,Djibouti
+2407,407,8/1/2026,407,8,876.77,active,China
+2408,408,8/1/2026,408,13,,,Poland
+2409,409,8/3/2026,409,12,956.08,cancelled,Portugal
+2410,410,8/3/2026,410,11,720.25,active,Russia
+2411,411,8/1/2026,411,14,145.48,pending,China
+2412,412,8/4/2026,412,12,196.23,on hold,Russia
+2413,413,8/5/2026,413,12,798.23,cancelled,Ukraine
+2414,414,8/5/2026,414,17,501.43,completed,Peru
+2415,415,8/5/2026,415,13,980.17,pending,Nigeria
+2416,416,8/5/2026,416,9,129.6,archived,Latvia
+2417,417,8/2/2026,417,18,177.83,cancelled,Nepal
+2418,418,,418,14,266.44,active,China
+,419,8/3/2026,419,11,109.9,suspended,China
+2420,420,8/2/2026,420,15,323.84,pending,China
+2421,421,8/7/2026,421,7,604.18,resolved,Portugal
+2422,422,8/1/2026,422,8,487.22,in progress,Russia
+2423,423,8/6/2026,423,17,99.49,in progress,Lebanon
+2424,424,8/2/2026,424,6,522.16,suspended,Poland
+2425,425,8/7/2026,425,19,260.2,inactive,Argentina
+2426,426,8/2/2026,426,19,746.22,pending,Sweden
+2427,427,8/4/2026,427,13,113.35,inactive,Indonesia
+2428,428,8/5/2026,428,8,326.3,inactive,Russia
+2429,429,,429,5,620.32,pending,Ukraine
+2430,430,8/3/2026,430,19,392.79,in progress,Macedonia
+2431,431,8/1/2026,431,18,926.44,completed,Panama
+2432,432,8/4/2026,432,,243.52,resolved,Indonesia
+2433,433,8/7/2026,433,11,874.37,resolved,China
+2434,434,,434,6,464.38,active,United States
+2435,435,8/1/2026,435,19,233.89,suspended,Albania
+2436,436,8/6/2026,436,11,790.65,suspended,China
+2437,437,8/5/2026,437,14,956.36,completed,Indonesia
+2438,438,8/5/2026,438,12,686.05,on hold,Colombia
+2439,439,8/2/2026,439,7,538.3,cancelled,Estonia
+2440,440,8/4/2026,440,17,469.62,on hold,Brazil
+,441,8/6/2026,441,1,613.23,resolved,Czech Republic
+2442,442,8/2/2026,442,12,511.75,active,Russia
+2443,443,8/6/2026,443,12,978.15,active,Brazil
+2444,444,8/1/2026,444,13,,,France
+2445,445,8/7/2026,445,15,542.18,,Egypt
+2446,446,8/7/2026,446,3,,cancelled,China
+2447,447,8/7/2026,447,10,343.62,cancelled,Tanzania
+2448,448,8/6/2026,448,12,122.78,suspended,Indonesia
+2449,449,8/6/2026,449,4,383.73,,China
+2450,450,8/5/2026,450,19,30.24,cancelled,Indonesia
+2451,451,8/4/2026,451,18,86.0,in progress,
+2452,452,8/4/2026,452,1,507.01,inactive,
+2453,453,8/6/2026,453,7,876.48,suspended,Thailand
+2454,454,8/1/2026,454,17,891.07,archived,Peru
+,455,8/3/2026,455,14,,completed,Malaysia
+2456,456,8/3/2026,456,14,381.66,pending,Poland
+2457,457,8/5/2026,457,13,45.1,inactive,Russia
+2458,458,8/2/2026,458,8,246.28,active,Chile
+2459,459,8/5/2026,459,,546.64,active,
+2460,460,,460,4,591.31,on hold,China
+2461,461,8/7/2026,461,12,607.82,archived,Russia
+2462,462,8/2/2026,462,10,264.74,suspended,Pakistan
+2463,463,8/1/2026,463,13,45.87,in progress,United States
+2464,464,8/7/2026,464,8,341.22,suspended,Brazil
+2465,465,8/7/2026,465,18,221.0,on hold,Czech Republic
+2466,466,8/5/2026,466,12,971.55,in progress,Pakistan
+2467,467,8/6/2026,467,5,,inactive,Brazil
+2468,468,8/6/2026,468,11,644.51,active,Sweden
+2469,469,8/7/2026,469,6,882.85,on hold,China
+2470,470,8/7/2026,470,9,549.69,active,Saudi Arabia
+2471,471,8/2/2026,471,20,583.74,pending,Indonesia
+2472,472,8/6/2026,472,15,767.95,suspended,Iran
+2473,473,8/1/2026,473,3,463.19,completed,Puerto Rico
+2474,474,8/3/2026,474,12,499.37,inactive,Japan
+2475,475,8/7/2026,475,9,985.0,archived,China
+,476,8/2/2026,476,8,120.24,completed,Serbia
+2477,477,8/6/2026,477,18,692.78,inactive,China
+2478,478,8/3/2026,478,10,449.99,archived,Bulgaria
+2479,479,8/4/2026,479,14,704.51,inactive,Albania
+2480,480,8/5/2026,480,1,189.34,active,Indonesia
+2481,481,8/1/2026,481,1,125.26,in progress,Poland
+2482,482,8/3/2026,482,19,102.45,on hold,China
+2483,483,8/1/2026,483,6,246.77,on hold,Russia
+,484,8/7/2026,484,7,307.5,suspended,China
+2485,485,8/5/2026,485,1,958.22,inactive,Pakistan
+2486,486,8/7/2026,486,15,734.06,on hold,Indonesia
+2487,487,8/6/2026,487,14,77.92,on hold,Kenya
+2488,488,8/4/2026,488,7,451.09,on hold,Cuba
+,489,8/6/2026,489,16,524.53,inactive,Russia
+2490,490,8/4/2026,490,9,409.68,cancelled,Brazil
+2491,491,8/2/2026,491,3,400.33,resolved,Poland
+,492,8/7/2026,492,7,113.03,inactive,China
+2493,493,8/5/2026,493,3,279.51,in progress,Czech Republic
+,494,8/2/2026,494,12,132.02,cancelled,Philippines
+2495,495,8/3/2026,495,1,505.79,cancelled,Philippines
+2496,496,8/5/2026,496,18,164.63,suspended,China
+2497,,8/7/2026,497,15,20.61,suspended,Russia
+2498,498,8/4/2026,498,20,829.07,inactive,Pakistan
+2499,499,8/4/2026,499,19,865.73,completed,Portugal
+2500,500,8/5/2026,500,17,533.8,inactive,Tuvalu
+2501,501,8/5/2026,501,12,919.23,archived,Peru
+2502,502,8/3/2026,502,13,686.24,on hold,
+2503,503,8/6/2026,503,11,921.45,in progress,Czech Republic
+2504,504,8/6/2026,504,15,581.15,archived,China
+2505,505,8/7/2026,505,15,817.65,archived,France
+,506,8/5/2026,506,17,471.02,on hold,Portugal
+2507,507,8/2/2026,507,2,748.39,in progress,China
+2508,508,8/3/2026,508,1,240.47,archived,United States
+2509,509,8/4/2026,509,13,501.26,pending,Venezuela
+2510,510,8/2/2026,510,10,443.81,resolved,Indonesia
+2511,511,8/2/2026,511,5,502.31,pending,Indonesia
+2512,512,8/2/2026,512,3,636.61,in progress,United States
+2513,513,8/1/2026,513,10,439.57,archived,Ukraine
+2514,514,8/2/2026,514,14,756.19,archived,Poland
+2515,515,8/1/2026,515,15,399.1,completed,Portugal
+2516,516,8/7/2026,516,1,194.29,on hold,Panama
+2517,517,8/5/2026,517,20,706.63,resolved,Colombia
+2518,518,8/6/2026,518,1,871.79,suspended,Peru
+2519,519,8/7/2026,519,9,66.25,suspended,Ukraine
+2520,520,8/5/2026,520,14,305.35,cancelled,Philippines
+2521,521,8/1/2026,521,14,602.84,pending,China
+2522,522,8/6/2026,522,,871.96,pending,Ukraine
+2523,523,8/4/2026,523,12,48.76,suspended,Russia
+2524,524,8/6/2026,524,15,14.13,completed,Philippines
+2525,525,8/7/2026,525,6,678.25,suspended,Indonesia
+2526,526,8/2/2026,526,17,228.51,in progress,Latvia
+2527,527,8/7/2026,527,8,854.84,resolved,Jordan
+2528,528,8/5/2026,528,19,493.58,on hold,China
+2529,,8/3/2026,529,9,710.58,resolved,China
+2530,530,,530,8,298.76,resolved,China
+,531,,531,2,966.14,,China
+2532,532,,532,,,active,Poland
+2533,533,8/3/2026,533,16,993.02,active,Greece
+2534,534,8/7/2026,534,18,531.0,cancelled,South Africa
+2535,535,8/1/2026,535,19,6.58,cancelled,Philippines
+2536,536,8/3/2026,536,5,535.2,cancelled,Mexico
+2537,537,8/6/2026,537,18,430.69,in progress,Philippines
+2538,538,8/5/2026,538,11,721.74,resolved,Portugal
+2539,539,8/7/2026,539,2,558.37,inactive,
+2540,540,8/6/2026,540,6,804.13,active,Guinea
+2541,541,8/3/2026,541,19,608.65,suspended,Japan
+2542,542,8/4/2026,542,13,747.28,resolved,China
+2543,543,8/4/2026,543,19,32.09,in progress,Serbia
+2544,544,8/2/2026,544,20,833.78,suspended,Jordan
+,545,8/4/2026,545,2,772.86,cancelled,China
+2546,546,8/4/2026,546,13,218.78,suspended,
+2547,547,8/1/2026,547,19,81.67,on hold,
+2548,548,8/6/2026,548,16,72.37,archived,Sweden
+2549,549,8/5/2026,549,12,682.5,cancelled,Ukraine
+2550,550,8/4/2026,550,13,722.58,on hold,China
+2551,551,8/7/2026,551,14,734.07,inactive,Indonesia
+2552,552,8/6/2026,552,,841.4,inactive,
+2553,553,8/5/2026,553,13,517.12,active,Portugal
+2554,554,8/7/2026,554,7,500.94,resolved,Bulgaria
+2555,555,8/3/2026,555,12,879.68,inactive,Peru
+2556,556,8/2/2026,556,4,,archived,Pakistan
+2557,557,8/2/2026,557,10,861.74,suspended,Vietnam
+2558,558,8/5/2026,558,2,48.72,suspended,China
+2559,559,8/7/2026,559,14,525.51,resolved,South Africa
+2560,560,8/1/2026,560,2,342.74,completed,Portugal
+2561,561,8/1/2026,561,19,781.05,cancelled,Philippines
+2562,562,8/1/2026,562,4,263.09,cancelled,Brazil
+2563,563,8/6/2026,,13,674.82,cancelled,Indonesia
+2564,564,8/2/2026,564,7,813.09,archived,Togo
+2565,565,8/5/2026,565,9,253.07,resolved,Brazil
+2566,566,8/7/2026,566,13,961.96,completed,United States
+2567,567,8/2/2026,567,14,147.63,in progress,Ireland
+2568,568,8/6/2026,568,12,317.21,in progress,Indonesia
+2569,569,8/2/2026,569,9,776.13,archived,Iran
+2570,570,8/1/2026,570,5,994.47,in progress,China
+2571,571,8/1/2026,571,3,766.98,archived,China
+2572,572,8/1/2026,572,7,331.33,archived,Ukraine
+2573,573,8/1/2026,573,3,529.85,cancelled,United States
+2574,574,8/3/2026,574,14,947.0,active,China
+2575,575,,575,3,47.89,inactive,South Africa
+2576,576,8/5/2026,576,3,337.36,completed,Colombia
+2577,577,8/7/2026,577,19,517.62,pending,Portugal
+2578,578,8/7/2026,578,11,673.41,resolved,Indonesia
+2579,579,8/2/2026,579,20,889.18,resolved,
+2580,580,8/7/2026,580,3,426.17,resolved,Russia
+2581,581,8/6/2026,581,4,870.66,inactive,Greece
+2582,582,,582,10,297.76,resolved,Serbia
+2583,583,8/2/2026,583,,181.46,cancelled,Portugal
+2584,584,8/7/2026,584,4,260.34,active,Russia
+2585,585,8/6/2026,585,2,425.06,,China
+2586,586,8/7/2026,586,,365.1,completed,Peru
+2587,587,8/4/2026,587,,971.95,inactive,Colombia
+,588,8/2/2026,588,15,790.01,in progress,China
+2589,589,8/1/2026,589,19,459.33,active,France
+,590,8/7/2026,590,3,218.31,on hold,Portugal
+2591,591,8/5/2026,591,18,846.12,,Russia
+2592,592,8/1/2026,592,13,877.1,archived,Ireland
+2593,593,8/4/2026,593,8,579.97,active,Japan
+2594,594,8/6/2026,594,8,842.37,cancelled,Nigeria
+2595,595,8/4/2026,595,5,749.58,on hold,France
+2596,596,,,10,52.39,cancelled,China
+,597,8/4/2026,597,17,427.03,archived,Cambodia
+2598,598,8/1/2026,598,10,27.81,suspended,Indonesia
+2599,599,8/2/2026,599,,62.34,inactive,China
+,600,8/2/2026,600,20,810.18,pending,Greece
+2601,601,8/5/2026,601,5,,completed,China
+2602,602,8/4/2026,602,20,704.07,inactive,
+2603,603,8/4/2026,603,10,16.16,pending,Croatia
+2604,604,8/4/2026,604,13,570.8,suspended,France
+2605,605,8/1/2026,605,20,765.53,suspended,Indonesia
+2606,606,8/4/2026,606,1,335.85,in progress,Portugal
+2607,607,8/3/2026,607,1,544.97,in progress,
+2608,608,8/4/2026,608,11,484.9,archived,Cameroon
+2609,609,8/6/2026,609,20,771.8,pending,Namibia
+2610,610,8/1/2026,610,10,946.55,active,Russia
+2611,611,,611,13,638.45,on hold,China
+2612,612,8/2/2026,612,1,369.13,pending,Ukraine
+2613,613,8/1/2026,613,2,70.8,resolved,Indonesia
+2614,614,8/2/2026,614,12,552.18,on hold,Indonesia
+2615,615,8/3/2026,615,4,665.44,on hold,Albania
+2616,616,8/5/2026,616,20,802.85,completed,Afghanistan
+2617,617,,617,5,169.24,active,China
+2618,618,8/2/2026,618,20,992.52,inactive,Indonesia
+2619,619,8/4/2026,619,12,825.26,completed,Philippines
+2620,620,8/1/2026,620,,842.38,archived,Latvia
+2621,621,8/2/2026,621,20,126.01,inactive,Poland
+2622,622,8/3/2026,622,14,844.15,,Guatemala
+2623,623,8/4/2026,623,6,260.89,pending,Czech Republic
+2624,624,8/5/2026,624,20,461.25,completed,Poland
+2625,625,8/5/2026,625,11,998.76,inactive,Philippines
+2626,626,8/2/2026,626,8,64.46,on hold,Brazil
+2627,627,8/2/2026,627,18,674.01,completed,China
+2628,628,8/1/2026,628,10,695.41,pending,China
+2629,629,8/4/2026,,4,199.56,,Chile
+2630,630,8/5/2026,630,6,151.46,in progress,Indonesia
+2631,631,8/2/2026,631,8,401.77,completed,Nigeria
+2632,632,8/5/2026,632,12,34.67,on hold,Iran
+2633,633,8/1/2026,633,10,795.92,cancelled,China
+,634,8/7/2026,634,4,661.95,suspended,China
+2635,635,8/6/2026,635,11,871.83,cancelled,Niger
+2636,636,8/3/2026,636,8,464.26,on hold,Indonesia
+2637,637,8/7/2026,637,9,7.13,,China
+,638,8/2/2026,638,19,296.39,completed,Egypt
+2639,639,8/4/2026,639,6,794.53,completed,Kazakhstan
+2640,640,8/7/2026,640,20,280.65,cancelled,United States
+2641,641,8/7/2026,641,9,131.86,resolved,Greece
+2642,642,8/3/2026,642,11,108.35,archived,China
+2643,643,8/7/2026,643,2,276.64,active,Czech Republic
+2644,644,8/4/2026,644,8,316.34,inactive,Thailand
+2645,645,8/7/2026,645,6,934.49,cancelled,France
+2646,646,8/7/2026,646,4,831.19,active,Poland
+2647,647,8/2/2026,647,8,186.6,pending,China
+2648,648,8/5/2026,648,6,559.13,,Indonesia
+2649,649,8/3/2026,649,12,140.16,on hold,Belarus
+2650,650,8/7/2026,650,14,462.48,suspended,Indonesia
+2651,651,8/2/2026,651,10,436.06,resolved,China
+2652,652,8/5/2026,652,13,364.98,active,Philippines
+2653,653,,653,20,641.92,inactive,Mexico
+2654,654,8/5/2026,654,12,681.56,inactive,Poland
+2655,655,8/4/2026,655,1,289.29,pending,China
+2656,656,8/4/2026,656,,501.52,,
+2657,657,8/1/2026,657,8,256.5,resolved,Indonesia
+2658,658,8/4/2026,658,7,947.41,on hold,Brazil
+2659,659,8/2/2026,659,11,876.01,inactive,China
+2660,660,8/5/2026,660,6,707.13,active,China
+2661,661,8/5/2026,661,,248.39,resolved,China
+2662,662,8/5/2026,,15,642.33,suspended,Canada
+2663,663,8/3/2026,663,19,400.1,inactive,Brazil
+2664,664,8/3/2026,664,8,295.55,,Brazil
+2665,665,8/4/2026,665,14,404.83,in progress,Indonesia
+2666,666,8/5/2026,666,16,178.8,,Portugal
+2667,667,8/1/2026,667,9,902.87,cancelled,Colombia
+2668,668,8/6/2026,668,2,573.98,inactive,China
+2669,669,8/7/2026,669,3,797.51,cancelled,Slovenia
+2670,670,8/3/2026,670,14,965.55,cancelled,Indonesia
+2671,671,8/7/2026,,19,226.94,suspended,Palestinian Territory
+2672,672,8/3/2026,672,18,861.23,archived,Portugal
+2673,673,8/6/2026,673,10,964.05,completed,China
+2674,674,8/4/2026,674,15,861.56,cancelled,Ukraine
+2675,675,8/1/2026,675,9,349.55,resolved,United Kingdom
+2676,676,8/7/2026,676,1,683.5,inactive,Ukraine
+2677,677,8/1/2026,,5,623.43,pending,
+2678,678,8/3/2026,678,1,455.33,inactive,Mauritania
+2679,679,8/1/2026,679,16,584.37,resolved,Russia
+2680,680,8/3/2026,680,18,780.58,pending,Indonesia
+2681,681,8/5/2026,681,2,,on hold,Mexico
+2682,682,8/3/2026,682,,615.77,cancelled,Nigeria
+2683,,8/2/2026,683,2,625.96,on hold,United States
+2684,684,8/1/2026,684,13,464.66,archived,Malta
+2685,685,8/1/2026,685,12,776.02,on hold,Indonesia
+2686,686,8/5/2026,686,,626.31,active,Indonesia
+2687,687,8/3/2026,687,8,979.04,suspended,Sweden
+2688,688,8/4/2026,688,5,483.27,suspended,Greece
+2689,689,8/7/2026,689,17,476.4,completed,Mongolia
+2690,690,8/4/2026,690,10,719.01,pending,Mexico
+2691,691,8/6/2026,691,5,335.06,on hold,Poland
+2692,692,8/3/2026,692,18,673.51,in progress,Canada
+2693,693,8/6/2026,693,16,232.39,active,Cuba
+2694,694,8/4/2026,694,9,466.71,archived,Nigeria
+2695,695,8/5/2026,,13,210.91,suspended,Palestinian Territory
+2696,696,8/2/2026,696,6,223.28,pending,Guyana
+2697,697,8/7/2026,697,1,1.39,pending,Peru
+2698,,8/1/2026,698,19,808.02,resolved,
+2699,699,8/4/2026,,4,794.16,suspended,United Arab Emirates
+2700,700,8/5/2026,700,14,448.43,cancelled,South Africa
+2701,701,8/7/2026,701,18,171.74,archived,China
+2702,702,8/2/2026,702,12,392.23,pending,Sweden
+2703,703,8/2/2026,703,2,223.29,,Bulgaria
+2704,704,8/5/2026,704,11,867.53,resolved,Brazil
+2705,705,8/7/2026,,17,139.68,cancelled,Japan
+2706,706,8/5/2026,706,12,585.29,active,Philippines
+2707,707,8/4/2026,707,,629.58,in progress,China
+2708,708,8/3/2026,708,6,150.39,pending,China
+2709,709,8/4/2026,709,10,831.02,active,Papua New Guinea
+2710,710,8/1/2026,710,8,243.67,archived,Ireland
+2711,,8/3/2026,711,6,463.44,completed,Indonesia
+2712,712,,712,6,461.17,resolved,Ukraine
+2713,713,8/2/2026,713,8,692.59,suspended,
+2714,714,8/5/2026,714,20,691.11,active,Albania
+2715,715,,715,6,678.85,suspended,
+2716,716,8/4/2026,716,1,97.25,archived,China
+2717,717,8/4/2026,717,8,911.12,active,Egypt
+2718,718,8/2/2026,718,6,458.89,completed,Aland Islands
+2719,719,8/1/2026,719,,27.96,active,Indonesia
+2720,720,8/4/2026,720,6,640.9,pending,Indonesia
+2721,721,8/1/2026,721,7,857.09,active,China
+2722,722,8/4/2026,722,14,298.6,resolved,Philippines
+2723,723,8/3/2026,723,,629.85,resolved,Russia
+2724,724,8/4/2026,724,7,979.46,in progress,Czech Republic
+2725,725,8/3/2026,725,1,502.11,resolved,Sweden
+2726,726,8/3/2026,726,5,225.33,cancelled,Indonesia
+2727,727,8/6/2026,727,7,594.76,in progress,China
+2728,728,8/7/2026,728,,864.1,pending,China
+2729,729,,729,,900.89,resolved,Poland
+2730,730,8/2/2026,730,19,572.25,,South Africa
+,731,8/3/2026,731,19,815.5,active,China
+2732,732,8/4/2026,732,19,522.27,inactive,China
+2733,733,8/7/2026,733,2,467.73,,Indonesia
+,734,8/6/2026,734,10,267.64,inactive,Poland
+2735,735,8/3/2026,735,5,887.14,completed,Malaysia
+2736,736,8/1/2026,,4,190.22,cancelled,China
+2737,737,8/4/2026,737,5,162.54,in progress,Czech Republic
+2738,738,8/7/2026,738,7,141.26,active,Central African Republic
+2739,739,8/4/2026,739,18,343.08,suspended,Sierra Leone
+2740,740,8/2/2026,740,4,778.91,active,Philippines
+2741,741,8/7/2026,741,18,633.57,in progress,Portugal
+2742,742,8/4/2026,742,7,924.84,inactive,Senegal
+2743,743,8/6/2026,743,20,729.34,resolved,South Africa
+2744,744,8/3/2026,744,13,833.73,suspended,Ukraine
+2745,745,8/2/2026,745,7,418.78,in progress,Georgia
+,746,8/2/2026,746,12,913.34,archived,Argentina
+2747,747,8/2/2026,747,5,228.41,in progress,Portugal
+2748,748,8/2/2026,748,2,638.0,inactive,Bulgaria
+2749,749,8/6/2026,749,8,704.43,resolved,Indonesia
+2750,750,8/6/2026,750,10,27.27,in progress,Indonesia
+2751,751,,751,6,768.22,inactive,Philippines
+2752,752,,752,5,406.66,active,Indonesia
+2753,753,8/1/2026,753,16,659.37,inactive,Afghanistan
+2754,754,8/5/2026,754,15,407.6,,Benin
+,755,8/3/2026,755,18,989.2,,Nigeria
+2756,756,8/3/2026,756,4,924.86,archived,Indonesia
+2757,757,8/5/2026,757,8,63.91,active,Indonesia
+2758,758,8/3/2026,758,11,307.86,pending,Venezuela
+2759,,8/7/2026,759,6,681.48,pending,Japan
+2760,760,8/1/2026,760,16,346.86,archived,Russia
+2761,761,8/1/2026,761,,,on hold,Papua New Guinea
+2762,762,,762,19,755.82,resolved,China
+2763,763,8/4/2026,763,15,67.8,cancelled,Afghanistan
+,764,8/3/2026,764,5,380.49,completed,Indonesia
+2765,765,8/5/2026,765,20,858.89,resolved,Paraguay
+2766,766,8/3/2026,766,3,432.47,cancelled,United States
+2767,767,8/4/2026,767,4,461.78,pending,Colombia
+2768,768,8/3/2026,768,18,123.99,pending,Greece
+2769,769,8/6/2026,769,20,513.28,in progress,Botswana
+2770,770,8/3/2026,770,7,673.66,in progress,Finland
+2771,771,8/3/2026,771,18,849.48,completed,Brazil
+2772,772,8/2/2026,772,15,20.63,completed,China
+2773,773,8/5/2026,773,4,664.06,pending,Indonesia
+2774,774,8/7/2026,774,4,613.31,in progress,Ukraine
+2775,775,8/1/2026,775,9,872.19,completed,Mexico
+2776,776,8/2/2026,776,18,247.16,in progress,Indonesia
+2777,777,8/2/2026,777,13,210.68,resolved,Greece
+2778,778,8/1/2026,778,4,377.23,suspended,China
+2779,779,8/4/2026,779,18,554.56,in progress,China
+2780,780,8/4/2026,780,2,57.0,,
+2781,781,,781,12,714.81,suspended,Vietnam
+2782,782,8/6/2026,782,13,865.73,cancelled,Indonesia
+2783,783,,783,8,170.82,,China
+2784,784,8/7/2026,784,15,329.66,pending,China
+2785,785,8/4/2026,785,16,443.43,inactive,Indonesia
+2786,786,8/6/2026,786,20,899.74,inactive,Sweden
+2787,787,8/1/2026,787,12,827.64,pending,Ukraine
+2788,788,8/4/2026,,1,256.62,active,Kazakhstan
+2789,789,8/2/2026,789,15,674.66,resolved,Saint Lucia
+2790,790,8/5/2026,790,11,658.96,archived,Russia
+2791,791,8/1/2026,791,19,626.44,on hold,Russia
+2792,792,8/3/2026,792,1,954.75,archived,Cameroon
+2793,793,8/4/2026,793,19,372.25,cancelled,Philippines
+2794,794,8/6/2026,794,13,375.39,active,Russia
+2795,795,8/1/2026,795,,788.06,,Portugal
+2796,796,8/3/2026,796,4,863.18,in progress,Philippines
+2797,797,8/3/2026,797,6,883.21,cancelled,Canada
+2798,,8/1/2026,798,13,140.56,completed,China
+2799,799,8/7/2026,799,15,415.93,suspended,Poland
+2800,800,,800,11,626.37,pending,China
+,801,8/6/2026,801,18,540.9,inactive,Philippines
+2802,802,8/2/2026,,8,847.93,cancelled,China
+,803,8/1/2026,803,4,,resolved,Indonesia
+2804,804,8/5/2026,804,7,782.2,inactive,Brazil
+2805,805,8/4/2026,805,16,281.89,completed,Nicaragua
+2806,806,8/3/2026,806,10,619.11,active,China
+2807,807,8/6/2026,807,17,894.84,archived,Georgia
+2808,808,8/1/2026,808,15,615.96,on hold,Indonesia
+2809,809,8/7/2026,809,6,790.96,suspended,
+2810,810,8/7/2026,810,10,103.26,pending,Palestinian Territory
+2811,811,8/5/2026,811,6,175.0,archived,Portugal
+2812,812,,812,5,239.23,on hold,Philippines
+2813,813,8/3/2026,813,9,332.08,archived,Philippines
+2814,814,8/7/2026,814,1,380.76,completed,Indonesia
+2815,815,8/2/2026,815,3,258.34,suspended,Venezuela
+2816,816,8/7/2026,816,16,31.14,resolved,United States
+2817,817,8/7/2026,817,4,712.78,on hold,Philippines
+2818,818,8/5/2026,818,16,113.35,cancelled,China
+,819,8/7/2026,819,20,462.34,in progress,Serbia
+2820,820,8/7/2026,820,4,902.57,pending,Finland
+2821,821,8/6/2026,821,,714.87,cancelled,China
+2822,822,8/1/2026,822,16,,pending,China
+2823,823,8/7/2026,823,14,483.83,pending,Sweden
+2824,824,8/6/2026,824,15,225.81,in progress,Russia
+2825,825,8/3/2026,825,13,314.03,archived,Indonesia
+2826,826,8/3/2026,826,18,59.55,resolved,China
+2827,827,8/6/2026,827,16,1.74,pending,Bosnia and Herzegovina
+2828,828,8/5/2026,828,3,,,Ireland
+2829,829,8/4/2026,829,3,792.79,on hold,Poland
+2830,830,8/6/2026,830,13,155.84,cancelled,China
+2831,831,8/5/2026,831,19,463.01,inactive,Philippines
+2832,832,8/7/2026,832,7,756.14,archived,Israel
+2833,833,8/7/2026,833,18,739.72,on hold,China
+2834,834,8/2/2026,834,5,468.69,active,China
+2835,835,8/6/2026,835,18,855.53,in progress,Brazil
+2836,836,8/7/2026,,7,382.17,archived,Sweden
+2837,837,8/2/2026,837,15,369.52,on hold,Macedonia
+2838,838,8/4/2026,838,19,629.08,suspended,Greece
+2839,839,8/7/2026,839,16,42.73,resolved,China
+2840,840,8/6/2026,840,17,876.3,suspended,Japan
+2841,841,8/6/2026,841,6,319.98,resolved,Ecuador
+2842,842,8/3/2026,842,15,54.36,in progress,Sweden
+2843,843,8/1/2026,843,17,64.85,resolved,Finland
+2844,844,8/3/2026,844,8,537.87,on hold,Italy
+2845,845,8/7/2026,845,3,120.54,on hold,Indonesia
+2846,846,8/2/2026,846,15,235.63,completed,Colombia
+2847,847,8/4/2026,,13,114.47,in progress,China
+2848,848,8/2/2026,848,8,188.89,inactive,China
+2849,849,8/4/2026,849,19,428.44,inactive,Sweden
+2850,850,8/1/2026,850,13,434.07,archived,Poland
+2851,,8/2/2026,851,12,569.22,pending,Ecuador
+2852,852,,852,8,426.69,on hold,China
+2853,853,8/6/2026,853,16,389.51,archived,Russia
+2854,854,8/5/2026,854,9,915.4,archived,China
+2855,855,8/5/2026,855,15,675.81,cancelled,Russia
+2856,856,8/5/2026,856,12,,resolved,China
+2857,857,8/3/2026,857,7,562.82,in progress,Uruguay
+2858,858,8/6/2026,858,5,938.14,cancelled,New Zealand
+2859,859,8/6/2026,859,5,677.81,cancelled,Finland
+2860,860,8/6/2026,860,8,786.75,in progress,Sweden
+2861,861,8/6/2026,861,1,780.28,archived,Nicaragua
+2862,862,8/6/2026,862,6,384.8,archived,Malaysia
+2863,863,8/7/2026,863,,747.84,inactive,Sweden
+2864,864,8/6/2026,864,7,978.21,archived,China
+2865,865,8/1/2026,865,8,,cancelled,Indonesia
+2866,866,8/3/2026,866,9,24.34,suspended,Indonesia
+2867,867,,867,20,961.02,suspended,Greece
+2868,868,8/3/2026,868,4,828.31,resolved,China
+2869,869,8/1/2026,869,10,863.02,cancelled,China
+2870,870,8/3/2026,,4,899.96,active,Mexico
+2871,871,8/5/2026,871,16,205.18,pending,United States
+2872,872,8/2/2026,872,18,433.32,suspended,Belarus
+2873,873,,873,17,704.96,resolved,Comoros
+2874,874,8/4/2026,874,17,905.52,active,China
+2875,875,8/6/2026,875,14,695.2,completed,Burkina Faso
+2876,876,8/3/2026,876,,170.6,on hold,Indonesia
+,877,8/5/2026,877,5,787.87,resolved,China
+2878,878,8/6/2026,878,9,602.42,inactive,Madagascar
+2879,879,8/6/2026,879,3,72.36,pending,
+2880,880,8/2/2026,880,14,156.25,completed,Indonesia
+2881,881,8/5/2026,881,18,359.8,on hold,Serbia
+2882,882,8/6/2026,882,1,950.57,suspended,Spain
+2883,883,8/6/2026,883,,791.8,completed,China
+2884,884,8/5/2026,884,,479.01,pending,Indonesia
+2885,885,8/5/2026,885,12,56.82,on hold,Russia
+2886,886,8/2/2026,886,2,753.17,on hold,China
+2887,887,8/3/2026,887,5,46.07,,Indonesia
+2888,888,8/3/2026,888,11,318.15,cancelled,France
+2889,889,8/2/2026,889,9,894.41,resolved,China
+2890,890,8/1/2026,890,7,905.26,active,China
+2891,891,8/5/2026,891,5,150.36,suspended,China
+2892,892,8/2/2026,892,10,527.21,cancelled,China
+2893,893,8/3/2026,893,10,566.61,active,Sweden
+2894,894,8/7/2026,894,14,886.36,archived,China
+2895,895,8/1/2026,895,8,569.6,active,Botswana
+2896,896,8/7/2026,896,19,994.41,resolved,Slovenia
+2897,897,8/4/2026,897,15,952.61,in progress,Indonesia
+2898,898,8/4/2026,898,7,967.36,resolved,Saudi Arabia
+2899,899,8/5/2026,899,12,436.04,in progress,Cuba
+2900,900,8/1/2026,900,8,354.08,in progress,Philippines
+,901,8/1/2026,901,19,763.75,suspended,China
+2902,,8/3/2026,902,7,755.48,completed,Finland
+2903,903,8/3/2026,903,11,559.01,completed,Mauritius
+2904,904,8/6/2026,904,15,914.5,pending,New Caledonia
+2905,905,8/6/2026,905,16,209.59,active,
+2906,906,8/6/2026,906,2,655.81,on hold,Brazil
+2907,907,8/7/2026,907,4,,completed,China
+2908,908,,908,11,833.24,suspended,Kenya
+2909,909,8/5/2026,909,11,593.18,completed,Brazil
+2910,910,8/1/2026,910,17,640.3,inactive,Czech Republic
+2911,911,8/7/2026,911,18,44.29,active,China
+2912,912,8/1/2026,912,15,972.23,in progress,Philippines
+2913,913,8/6/2026,913,12,377.51,active,Indonesia
+2914,914,8/1/2026,914,6,757.04,resolved,Ecuador
+2915,915,8/5/2026,915,20,282.74,suspended,Portugal
+2916,916,8/7/2026,916,12,362.66,active,China
+2917,917,8/6/2026,917,3,323.64,on hold,New Zealand
+2918,918,8/7/2026,918,7,641.29,active,Croatia
+2919,919,8/3/2026,919,16,319.38,pending,China
+2920,920,,920,19,188.52,inactive,China
+2921,921,,921,13,140.62,archived,
+2922,922,8/6/2026,922,4,547.75,active,China
+2923,923,8/2/2026,923,12,934.66,inactive,Indonesia
+2924,924,8/4/2026,924,17,878.67,active,Honduras
+2925,925,8/7/2026,925,14,361.85,in progress,Indonesia
+2926,926,8/4/2026,926,9,150.22,archived,United States
+2927,927,8/1/2026,927,2,50.22,completed,Kiribati
+2928,928,8/5/2026,928,3,527.48,resolved,China
+2929,929,8/6/2026,929,1,486.82,completed,China
+2930,930,8/7/2026,930,17,458.18,resolved,Brazil
+2931,931,8/5/2026,931,7,504.26,pending,France
+2932,932,8/7/2026,932,5,122.46,completed,Russia
+2933,933,8/1/2026,933,12,170.91,archived,Brazil
+2934,934,8/4/2026,934,15,752.28,cancelled,Venezuela
+2935,935,8/2/2026,935,7,89.97,archived,Brazil
+2936,936,8/4/2026,936,,302.39,active,Philippines
+,937,,937,19,875.41,suspended,Poland
+2938,938,8/7/2026,938,14,558.89,completed,Palestinian Territory
+2939,939,8/5/2026,939,3,726.27,cancelled,Ukraine
+2940,940,8/5/2026,940,17,445.39,,China
+2941,941,8/4/2026,941,16,268.49,pending,Sweden
+2942,942,8/2/2026,942,11,928.46,completed,France
+2943,943,8/7/2026,943,3,550.78,active,Bosnia and Herzegovina
+,944,8/4/2026,944,8,827.47,on hold,Ukraine
+2945,945,8/1/2026,945,3,871.06,suspended,Indonesia
+2946,946,8/5/2026,946,17,604.75,suspended,Vietnam
+2947,947,8/6/2026,947,14,203.07,completed,Indonesia
+2948,948,8/3/2026,948,4,355.06,cancelled,Thailand
+,949,8/7/2026,949,14,196.67,on hold,Sweden
+2950,950,8/5/2026,950,12,822.07,pending,Philippines
+2951,951,8/2/2026,951,19,506.69,completed,Indonesia
+2952,952,8/7/2026,952,11,451.19,completed,Yemen
+2953,953,8/2/2026,953,12,194.19,on hold,China
+2954,954,8/6/2026,954,8,26.42,on hold,Chile
+2955,955,8/3/2026,955,13,553.59,archived,Argentina
+2956,956,8/2/2026,956,9,198.21,on hold,Chile
+2957,957,8/1/2026,957,,437.41,completed,Argentina
+2958,958,8/3/2026,958,,368.34,suspended,Sweden
+2959,959,,959,8,620.84,inactive,China
+2960,960,8/3/2026,,2,322.94,on hold,China
+2961,961,8/5/2026,961,16,431.75,active,France
+2962,962,8/6/2026,962,13,440.13,archived,Peru
+2963,963,8/1/2026,963,14,425.13,pending,China
+2964,964,8/2/2026,964,10,123.41,active,China
+2965,965,8/6/2026,965,19,424.8,inactive,China
+2966,966,8/1/2026,966,10,496.46,pending,China
+2967,967,,967,8,896.56,pending,Albania
+2968,968,8/7/2026,968,18,516.21,archived,French Guiana
+2969,969,8/2/2026,969,10,782.9,pending,Kazakhstan
+2970,970,8/6/2026,970,9,182.2,resolved,China
+2971,971,8/5/2026,971,18,193.83,completed,Sweden
+2972,972,8/3/2026,972,,896.48,resolved,Indonesia
+2973,973,8/3/2026,973,14,128.54,cancelled,Indonesia
+2974,974,8/4/2026,974,6,231.04,suspended,
+2975,975,8/6/2026,975,6,632.65,suspended,Brazil
+2976,976,8/6/2026,976,5,535.98,cancelled,Malaysia
+2977,977,8/3/2026,977,13,330.99,completed,Argentina
+2978,978,,978,20,956.35,completed,Germany
+2979,,8/3/2026,979,5,377.75,in progress,Canada
+2980,980,8/6/2026,980,18,889.26,archived,China
+2981,981,8/5/2026,981,,252.48,on hold,Chad
+2982,982,8/6/2026,982,10,894.78,completed,
+2983,983,8/7/2026,983,14,383.77,resolved,Sweden
+2984,984,8/7/2026,984,19,850.82,inactive,Russia
+2985,985,8/7/2026,985,13,200.25,completed,Japan
+2986,986,8/4/2026,986,4,393.79,cancelled,France
+2987,987,8/6/2026,987,7,424.9,resolved,Thailand
+2988,988,8/6/2026,988,14,381.89,on hold,China
+2989,989,8/1/2026,989,9,983.18,completed,Poland
+2990,990,8/7/2026,990,20,172.83,inactive,Spain
+2991,991,8/3/2026,,2,370.84,cancelled,Greece
+2992,992,8/4/2026,992,9,413.37,in progress,Poland
+2993,993,8/7/2026,993,7,621.48,completed,Brazil
+2994,994,8/2/2026,994,15,395.03,suspended,Philippines
+2995,995,8/7/2026,995,4,68.29,resolved,Portugal
+2996,996,8/4/2026,996,19,712.87,suspended,Germany
+2997,997,8/7/2026,997,5,396.78,in progress,Mexico
+2998,,8/2/2026,998,17,933.9,suspended,Greece
+2999,999,8/2/2026,999,17,981.72,archived,France
+3000,1000,8/5/2026,1000,18,988.71,active,China
